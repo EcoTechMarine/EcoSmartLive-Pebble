@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "257dd318-07b8-45a7-b258-52c8fffb6339",
+    "appKeys": {},
+    "longName": "EcoSmart Live",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "EcoSmart Live",
+    "companyName": "EcoTech Marine",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
